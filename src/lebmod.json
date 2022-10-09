@@ -1,9 +1,9 @@
 {
-    "name": "Example LEB Mod",
-    "description": "This is an example mod, your description goes here!",
-    "authors": "DBTDerpbox",
+    "name": "Forest",
+    "description": "In this map you fight for the victory in a giant forest full of trees and references to the Minecraft Console Edition lore.",
+    "authors": "ItzLightyHD & Frizou",
     "version": "1",
-    "id": "examplemod",
+    "id": "imlightymc.forest",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
