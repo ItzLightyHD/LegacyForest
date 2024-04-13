@@ -1,9 +1,9 @@
 {
     "name": "Forest",
     "description": "A giant forest full of trees, buildings and surprises. Explore this vast world and find the secrets hidden in it.",
-    "authors": "plymc & Frizou",
+    "authors": "LightyIsReal & Frizou",
     "version": "1.2",
-    "id": "plymc.forest",
+    "id": "lightyisreal.forest",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
